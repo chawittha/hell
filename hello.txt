@@ -1,1 +1,1 @@
-hello git
+hello git add dependency with hello2.txt
